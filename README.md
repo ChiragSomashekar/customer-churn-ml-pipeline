@@ -4,7 +4,7 @@ A machine learning pipeline that predicts customer churn and provides actionable
 
 ## Business Problem
 
-Customer churn costs ~$121,000/month in lost revenue. This project answers:
+Customer churn costs ~$121,000/month in lost recurring revenue. This project answers:
 - **Who** is likely to leave?
 - **Why** are they leaving?
 - **What** should we do about it?
