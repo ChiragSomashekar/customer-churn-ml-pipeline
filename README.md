@@ -58,8 +58,8 @@ Every prediction is explainable. Business teams receive:
 
 Access the full end-to-end analysis, including preprocessing, modeling, and SHAP explainability:
 
-- 👉 [View on GitHub](https://github.com/ChiragSomashekar/customer-churn-ml-pipeline/blob/main/notebooks/churn_analysis.ipynb)  
-- 👉 [View Clean Version (nbviewer)](https://nbviewer.org/github/ChiragSomashekar/customer-churn-ml-pipeline/blob/main/notebooks/churn_analysis.ipynb)
+- [View on GitHub](https://github.com/ChiragSomashekar/customer-churn-ml-pipeline/blob/main/notebooks/churn_analysis.ipynb)  
+- [View Clean Version (nbviewer)](https://nbviewer.org/github/ChiragSomashekar/customer-churn-ml-pipeline/blob/main/notebooks/churn_analysis.ipynb)
 
 
 ## Key Learnings
