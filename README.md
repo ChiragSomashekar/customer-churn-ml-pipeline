@@ -64,17 +64,13 @@ Access the full end-to-end analysis, including preprocessing, modeling, and SHAP
 
 ## Key Learnings
 
-- **Threshold tuning matters:** Default thresholds optimize for accuracy, not business outcomes
-- **Explainability builds trust:** SHAP analysis enables stakeholders to understand and act on predictions
-- **Cost asymmetry drives strategy:** When missing a churner costs 21x more than a wasted offer, you should flag more customers
+- **Threshold tuning > default accuracy:** Optimizing for business cost captured 95% of churners vs 56%
+- **Explainability enables action:** SHAP translates predictions into clear, actionable drivers
+- **Cost asymmetry changes strategy:** When a missed churner costs 21× more, aggressive targeting is optimal
 
-## Future Improvements
+## Next Steps
 
-1. Wrap in sklearn Pipeline for cleaner deployment
-2. A/B test intervention strategies
-3. Build automated weekly scoring pipeline
-4. Monitor for model drift
-
-## Author
-
-Chirag Somashekar
+1. **Test interventions** – Measure which offers actually reduce churn  
+2. **Validate assumptions** – Use real CLV and cost data from business teams  
+3. **Automate pipeline** – Set up weekly scoring and alerts  
+4. **Monitor performance** – Retrain model if performance drops
